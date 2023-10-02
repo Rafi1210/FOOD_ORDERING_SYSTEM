@@ -1,0 +1,5 @@
+Apple 100.00 1
+Red_Apple 500.00 3
+Banana 80.00 2
+Grapes 350.00 4
+Orange 200.00 123
